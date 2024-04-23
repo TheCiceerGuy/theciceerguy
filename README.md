@@ -1,5 +1,8 @@
 # 💫 About Me:
-Data Science, ML & AI 
+Data Science, ML & AI Developer
+
+
+
 
 
 ## 🌐 Socials:
